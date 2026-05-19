@@ -46,13 +46,29 @@ Aplikasi dibuat menggunakan widget-widget dasar Flutter dengan tema dark mode me
 
 ---
 
-## Screenshot
-![Hasil UI](screenshot/hasil_ui.png)
+# Screenshot
+
+## Home / Feed
+![Home UI](./screenshot/Screenshot%202026-05-19%20235551.png)
+
+## Profile Page
+![Profile UI](./screenshot/Screenshot%202026-05-19%20235640.png)
+
+## Tampilan Tambahan
+![UI Tambahan](./screenshot/image.png)
 
 ---
 
-## Wireframe
-![Wireframe](wireframe/wireframe_foto.jpg)
+# Wireframe
+
+## Wireframe 1
+![Wireframe 1](./wireframe/Screenshot%202026-05-19%20211936.png)
+
+## Wireframe 2
+![Wireframe 2](./wireframe/Screenshot%202026-05-19%20212421.png)
+
+## Wireframe 3
+![Wireframe 3](./wireframe/Screenshot%202026-05-19%20220424.png)
 
 ---
 
